@@ -1,0 +1,6 @@
+ipywidgets
+IPython
+matplotlib
+numpy
+pandas
+sklearn
