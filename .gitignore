@@ -1,5 +1,6 @@
 # Raw METAR data
 PANC_METAR_cleaned.csv
+PAFA_METAR_cleaned.csv
 
 # Logs
 logs
